@@ -13,3 +13,4 @@ class User {
 }
 
 const user = new User("Geoff", "Peel");
+user.printName();
